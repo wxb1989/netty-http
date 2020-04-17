@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <netty.version>4.1.17.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <commons-logging.version>1.2</commons-logging.version>
         <protobuf.version>3.5.0</protobuf.version>
     </properties>
