@@ -1,0 +1,7 @@
+﻿spring:
+  http:
+    encoding:
+      enabled: true
+      force: true
+  messages:
+    encoding: utf-8
